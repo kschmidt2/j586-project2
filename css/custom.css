@@ -1,0 +1,341 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* this is a custom CSS stylesheet */
+
+/*
+dark pink: #ef4b69
+light pink: #f5babe
+dark blue: #288eb5
+light blue: #8bd3da
+*/
+
+body {
+  font-family: 'Alegreya Sans', Helvetica, Arial, sans-serif;
+  font-weight: 600;
+}
+
+#scrolldown {
+  position: fixed;
+  text-align: right;
+  top: 15px;
+  right: 25px;
+  width: 100%;
+  z-index: 70;
+  font-weight: 800;
+  color: #000;
+}
+
+#section1 {
+  background-color: white;
+  padding: 0 10%;
+  color: #ef4b69;
+  text-align: center;
+}
+
+.titleimagepadding {
+  padding-bottom: 1em;
+  padding-right: 3px;
+  padding-left: 3px;
+}
+
+.headlinepadding {
+  padding-bottom: 2em;
+}
+
+.kickerpadding {
+  padding-bottom: 2em;
+}
+
+.titleimages {
+  max-width: 100%;
+}
+
+.topimage {
+  margin-top: -3em;
+  margin-bottom: 3em;
+}
+
+.tag {
+  font-size: 1.2em;
+  text-transform: uppercase;
+  font-weight: 800;
+  color: white;
+  background: #ef4b69;
+  padding: 3px 8px;
+  margin-top: -15em;
+}
+
+#headline {
+  font-size: 7em;
+  font-weight: 700;
+  line-height: 1em;
+  font-family: 'Roboto Condensed', sans-serif;
+  margin-top: 20px;
+  padding: 0 5% 0 5%;
+}
+
+#womenlink:hover {
+  color: #f5babe;
+  cursor: pointer;
+}
+
+#womentext:active {
+  color: #ef4b69;
+}
+
+#headlineinfo, #newtexthere {
+  font-weight: 800;
+  font-size: 1.2em;
+}
+
+.infopadding {
+  padding-top: 1em;
+}
+
+#section2 {
+  background-color: #ef4b69;
+  color: white;
+  padding: 0 10%;
+}
+
+.subhead {
+  font-size: 3em;
+  font-weight: 700;
+  line-height: 1em;
+  font-family: 'Roboto Condensed', sans-serif;
+  margin-top: 20px;
+  padding-bottom: .2em;
+}
+
+.maintext {
+  font-size: 1.5em;
+  padding-bottom: 1em;
+  font-weight: 500;
+}
+
+.number {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 5em;
+  font-weight: 800;
+  letter-spacing: -3px;
+  line-height: 1em;
+}
+
+.img-responsive-custom {
+  max-width: 85%;
+}
+
+.graphicpadding {
+  padding-top: 2em;
+}
+
+.rightpadding {
+  padding-right: 25px;
+}
+
+#section3 {
+  background-color: #f5babe;
+  color: black;
+  padding: 0 10%;
+}
+
+.img-responsive-pie {
+  max-width: 70%;
+}
+
+#section4 {
+  background-color: #288eb5;
+  color: white;
+  padding: 0 10%;
+}
+
+.header {
+  font-size: 1.5em;
+  font-weight: 800;
+  line-height: 1em;
+  font-style: normal;
+  padding-bottom: .5em;
+}
+
+.quote {
+  font-style: italic;
+  font-size: 1.2em;
+  font-weight: 700;
+}
+
+.quotename {
+  font-size: .8em;
+  font-style: normal;
+  font-weight: 500;
+  padding-top: .5em;
+}
+
+.img-responsive-quote {
+  max-width: 50%;
+}
+
+.img-responsive-quote1 {
+  max-width: 50%;
+}
+
+.center {
+  text-align: center;
+}
+
+.right {
+  text-align: right;
+}
+
+.quoteexplainer {
+  font-size: .8em;
+  font-style: italic;
+}
+
+.graphnumber1 {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 1.8em;
+  font-weight: 800;
+  letter-spacing: -3px;
+  line-height: 1em;
+  position: relative;
+  top: -1em;
+  left: 5px;
+}
+
+.graphnumber2 {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 1.8em;
+  font-weight: 800;
+  letter-spacing: -3px;
+  line-height: 1em;
+  position: relative;
+  top: -1.95em;
+  left: 38%;
+  margin-bottom: -2em;
+}
+
+#section5 {
+  background-color: #8bd3da;
+  color: black;
+  font-size: 1em;
+  padding: 0 10%;
+}
+
+#section6 {
+  background-color: #288eb5;
+  color: white;
+  font-size: 1em;
+  padding: 0 10%;
+}
+
+#section7 {
+  background-color: #8bd3da;
+  color: black;
+  font-size: 1em;
+  padding: 0 10%;
+}
+
+#section8 {
+  background-color: #ef4b69;
+  color: white;
+  font-size: 1em;
+  padding: 0 10%;
+}
+
+.extrabottompadding {
+  padding-bottom: 3em;
+}
+
+#section9 {
+  background-color: #f5babe;
+  color: black;
+  font-size: 1em;
+  padding: 0 10%;
+}
+
+#section10 {
+  background-color: #288eb5;
+  color: white;
+  font-size: 1em;
+  padding: 0 10%;
+}
+
+.smallbottompadding {
+  padding-bottom: 1em;
+}
+
+.lpink {
+  color: #f5babe;
+}
+
+#section11 {
+  background-color: white;
+  color: black;
+  font-size: 1em;
+  padding: 0 10%;
+  font-weight: 500;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+#footerSlideContainer {
+	position: fixed;
+	bottom:0;
+	width: 100%;
+  z-index: 80;
+}
+#footerSlideButton {
+	position: absolute;
+	top: -25px;
+	right: 20px;
+	border: none;
+	cursor: pointer;
+  font-weight: 800;
+  font-size: .8em;
+  text-transform: uppercase;
+  padding: 2px;
+}
+#footerSlideButton:hover {
+  color: #ef4b69;
+}
+#footerSlideContent {
+	width: 100%;
+	height: 0px;
+	background: #000000;
+  opacity: 0.8;
+	color: white;
+	font-size: 0.8em;
+	border: none;
+	font-family: DejaVuSansBook, Sans-Serif;
+}
+#footerSlideText {
+	padding: 15px 10px 25px 25px;
+  font-weight: 400;
+}
+#footerSlideText a {
+  color: white;
+}
+#footerSlideText a:hover {
+  color: #f5babe;
+}
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}

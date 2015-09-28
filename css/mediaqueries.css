@@ -1,0 +1,103 @@
+/* Extra small devices (phones, up to 480px) */
+@media screen and (max-width: 767px) {
+}
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991px) {
+}
+/* tablets/desktops and up ----------- */
+@media (min-width: 992px) and (max-width: 1199px) {
+}
+/* large desktops and up ----------- */
+@media screen and (min-width: 1200px) {
+}
+
+@media screen and (max-width: 767px) {
+  body {
+    font-size: 1.2em;
+  }
+  .titleimages {
+    max-width: 85%;
+  }
+  .titleimagepadding {
+    padding-bottom: .5em;
+    padding-right: 3px;
+    padding-left: 3px;
+  }
+  .kickerpadding {
+    padding-top: 1em;
+    padding-bottom: 1em;
+  }
+  .infopadding {
+    padding-top: .5em;
+  }
+  .headlinepadding {
+    padding-bottom: 1em;
+    top: -1em;
+    margin-bottom: -1em;
+  }
+  #scrolldown {
+    display: none;
+  }
+  .subhead {
+    font-size: 2.5em;
+  }
+  .maintext {
+    font-size: 1em;
+    font-weight: 700;
+  }
+  .number {
+    font-size: 3em;
+  }
+  .img-responsive-pie {
+    max-width: 100%;
+  }
+  .img-responsive-quote1 {
+    max-width: 100%;
+  }
+  .quotebubble {
+    display: none;
+  }
+  .graphnumber2 {
+    left: 55%;
+  }
+  .nomobile {
+    display: none;
+  }
+  .extrabottompadding {
+    padding-bottom: 2em;
+  }
+  .maintext .quote {
+    font-size: 1em;
+  }
+  #section11 {
+    padding: 0 10%;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .img-responsive-custom {
+    width: 75%;
+  }
+  #section2, #section3, #section4, #section5, #section6, #section7, #section8, #section9, #section10, #section11 {
+    padding: 0 12% 0 3%;
+  }
+  .no5s {
+    display: none;
+  }
+  .header {
+    font-size: 1.2em;
+  }
+  .5ssmaller {
+    font-size: 10px;
+  }
+  .titleimages {
+    max-width: 70%;
+  }
+  .number {
+    font-size: 2em;
+    letter-spacing: -1px;
+  }
+  #headline {
+    padding: 0;
+  }
+}
