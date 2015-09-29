@@ -45,6 +45,9 @@
     font-size: 1em;
     font-weight: 700;
   }
+  .biggerfont {
+    font-size: 1em;
+  }
   .number {
     font-size: 3em;
   }

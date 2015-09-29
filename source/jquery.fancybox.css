@@ -121,10 +121,12 @@
 
 .fancybox-prev {
 	left: 0;
+	display: none;
 }
 
 .fancybox-next {
 	right: 0;
+	display: none;
 }
 
 .fancybox-nav span {

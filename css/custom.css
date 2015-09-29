@@ -247,6 +247,10 @@ body {
   padding-bottom: 3em;
 }
 
+.biggerfont {
+  font-size: 1.2em;
+}
+
 #section9 {
   background-color: #f5babe;
   color: black;
